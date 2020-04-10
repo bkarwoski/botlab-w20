@@ -97,7 +97,7 @@ particles_t ParticleFilter::particles(void) const
 std::vector<particle_t> ParticleFilter::resamplePosteriorDistribution(void)
 {
     //////////// TODO: Implement your algorithm for resampling from the posterior distribution ///////////////////
-    
+    //I think this is where the sensor model is used
     std::vector<particle_t> prior;
     return prior;
 }

@@ -19,7 +19,7 @@ ActionModel::ActionModel(void):
 bool ActionModel::updateAction(const pose_xyt_t& odometry)
 {
     ////////////// TODO: Implement code here to compute a new distribution of the motion of the robot ////////////////
-    if(initialized_)
+    if(!initialized_)
     {
         previousOdometry_ = odometry;
         initialized_ = true;
@@ -46,12 +46,14 @@ bool ActionModel::updateAction(const pose_xyt_t& odometry)
     rot2_ = angle_diff(deltaTheta, rot1_);
     moved_ = (deltaX != 0.0) || (deltaY != 0.0) || (deltaTheta != 0.0);
     
-    return false;
+    return moved_;
 }
 
 
 particle_t ActionModel::applyAction(const particle_t& sample)
 {
+    ////////////// TODO: Implement your code for sampling new poses from the distribution computed in updateAction //////////////////////
+    // Make sure you create a new valid particle_t. Don't forget to set the new time and new parent_pose.
 
     if(moved_){
         particle_t newSample = sample;
@@ -64,14 +66,7 @@ particle_t ActionModel::applyAction(const particle_t& sample)
         newSample.pose.theta = wrap_to_pi(sample.pose.theta + sampledRot1 + sampledRot2);
         newSample.pose.utime = utime_;
         newSample.parent_pose = sample.pose;
-
         return newSample;
-
-
     }
-    ////////////// TODO: Implement your code for sampling new poses from the distribution computed in updateAction //////////////////////
-    // Make sure you create a new valid particle_t. Don't forget to set the new time and new parent_pose.
-
-
     return sample;
 }
