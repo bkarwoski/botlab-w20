@@ -69,9 +69,9 @@ private:
     bool       initialized_;
     int64_t    utime_;
 
-    double rot1Std_;
-    double rot2Std_;
-    double transStd_;
+    double rot1Var_;
+    double rot2Var_;
+    double transVar_;
 
     std::mt19937 numberGenerator_;
 };

@@ -44,6 +44,9 @@ bool ActionModel::updateAction(const pose_xyt_t& odometry)
     }
 
     rot2_ = angle_diff(deltaTheta, rot1_);
+    rot1Var_ = alpha1_ * rot1_ * rot1_ + alpha2_ * trans_ * trans_;
+    rot2Var_ = alpha1_ * rot1_ * rot1_ + alpha2_ * trans_ * trans_;
+    transVar_ = alpha3_ * trans_ * trans_ + alpha4_ * (rot1_ * rot1_ + rot2_ * rot2_);
     moved_ = (deltaX != 0.0) || (deltaY != 0.0) || (deltaTheta != 0.0);
     
     return moved_;
@@ -57,9 +60,9 @@ particle_t ActionModel::applyAction(const particle_t& sample)
 
     if(moved_){
         particle_t newSample = sample;
-        float sampledRot1 = std::normal_distribution<>(rot1_, rot1Std_)(numberGenerator_);
-        float sampledTrans = std::normal_distribution<>(trans_, transStd_)(numberGenerator_);
-        float sampledRot2 = std::normal_distribution<>(rot2_, rot2Std_)(numberGenerator_);
+        float sampledRot1 = std::normal_distribution<>(rot1_, rot1Var_)(numberGenerator_);
+        float sampledTrans = std::normal_distribution<>(trans_, transVar_)(numberGenerator_);
+        float sampledRot2 = std::normal_distribution<>(rot2_, rot2Var_)(numberGenerator_);
 
         newSample.pose.x += sampledTrans * cos(sample.pose.theta + sampledRot1);
         newSample.pose.y += sampledTrans * sin(sample.pose.theta + sampledRot1);
