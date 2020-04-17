@@ -2,6 +2,7 @@
 #define SLAM_SENSOR_MODEL_HPP
 
 class  lidar_t;
+class  pose_xyt_t;
 class  OccupancyGrid;
 struct particle_t;
 

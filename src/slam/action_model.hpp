@@ -60,7 +60,7 @@ private:
     const float alpha2_;
     const float alpha3_;
     const float alpha4_;
-
+    
     pose_xyt_t previousOdometry_;
     double     rot1_;
     double     trans_;
@@ -69,12 +69,11 @@ private:
     bool       initialized_;
     int64_t    utime_;
 
-    double rot1Var_;
-    double rot2Var_;
-    double transVar_;
-
+    double rot1Std_;
+    double transStd_;
+    double rot2Std_;
+    
     std::mt19937 numberGenerator_;
 };
-
 
 #endif // SLAM_ACTION_MODEL_HPP

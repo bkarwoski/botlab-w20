@@ -245,7 +245,7 @@ void OccupancyGridSLAM::initializePosesIfNeeded(void)
         
         filter_.initializeFilterAtPose(previousPose_);
     }
-    
+
     assert(haveInitializedPoses_);
 }
 

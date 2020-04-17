@@ -20,6 +20,7 @@ for event in log:
     #     print("pose: (%d, %d, %d)" % (msg.x, msg.y, msg.theta))
     if event.channel == "SLAM_PARTICLES":
         msg = particles_t.decode(event.data)
-        print("Particles: ", end='')
-        print(msg.num_particles, ' ', end='')
-        print(msg.particles[0].pose.x)
+        # print("Particles: ", end='')
+        # print(msg.num_particles, ' ', end='')
+        for p in msg.particles:
+            print(p.pose.x, ' ', p.pose.y, ' ', p.pose.theta)
