@@ -19,7 +19,6 @@ MotionPlanner::MotionPlanner(const MotionPlannerParams& params, const SearchPara
 {
 }
 
-
 robot_path_t MotionPlanner::planPath(const pose_xyt_t& start, 
                                      const pose_xyt_t& goal, 
                                      const SearchParams& searchParams) const
@@ -41,12 +40,10 @@ robot_path_t MotionPlanner::planPath(const pose_xyt_t& start,
     return search_for_path(start, goal, distances_, searchParams);
 }
 
-
 robot_path_t MotionPlanner::planPath(const pose_xyt_t& start, const pose_xyt_t& goal) const
 {
     return planPath(start, goal, searchParams_);
 }
-
 
 bool MotionPlanner::isValidGoal(const pose_xyt_t& goal) const
 {
@@ -71,7 +68,6 @@ bool MotionPlanner::isValidGoal(const pose_xyt_t& goal) const
     return false;
 }
 
-
 bool MotionPlanner::isPathSafe(const robot_path_t& path) const
 {
 
@@ -80,12 +76,10 @@ bool MotionPlanner::isPathSafe(const robot_path_t& path) const
     return true;
 }
 
-
 void MotionPlanner::setMap(const OccupancyGrid& map)
 {
     distances_.setDistances(map);
 }
-
 
 void MotionPlanner::setParams(const MotionPlannerParams& params)
 {

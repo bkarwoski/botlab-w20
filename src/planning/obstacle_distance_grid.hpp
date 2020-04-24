@@ -81,10 +81,10 @@ private:
     Point<float> globalOrigin_;         ///< Origin of the grid in global coordinates
 
     void resetGrid(const OccupancyGrid& map);
-    
+
     // Convert between cells and the underlying vector index
     int cellIndex(int x, int y) const { return y*width_ + x; }
-    
+
     // Allow private write-access to cells
     float& distance(int x, int y) { return cells_[cellIndex(x, y)]; }
 };
