@@ -3,6 +3,8 @@
 
 #include <lcmtypes/robot_path_t.hpp>
 #include <lcmtypes/pose_xyt_t.hpp>
+#include <planning/node.hpp>
+#include <planning/node_list.hpp>
 #include <queue>
 
 class ObstacleDistanceGrid;
@@ -24,29 +26,29 @@ struct SearchParams
                                     ///< for cellDistance > minDistanceToObstacle && cellDistance < maxDistanceWithCost
 };
 
-struct node
-{
-    node *parent;
-    pose_xyt_t pose;
-    double gCost;
-    double hCost;
-    double dCost;
-};
+// struct Node
+// {
+//     Node *parent;
+//     pose_xyt_t pose;
+//     double gCost;
+//     double hCost;
+//     double dCost;
+// };
 
-bool operator < (const node &n_lhs, const node &n_rhs){
-    return (n_lhs.hCost + n_lhs.gCost) < (n_rhs.hCost + n_rhs.gCost);
-}
+// bool operator < (const Node &n_lhs, const Node &n_rhs){
+//     return (n_lhs.hCost + n_lhs.gCost) < (n_rhs.hCost + n_rhs.gCost);
+// }
 
-bool operator > (const node &n_lhs, const node &n_rhs){
-    return (n_lhs.hCost + n_lhs.gCost) > (n_rhs.hCost + n_rhs.gCost);
-}
+// bool operator > (const Node &n_lhs, const Node &n_rhs){
+//     return (n_lhs.hCost + n_lhs.gCost) > (n_rhs.hCost + n_rhs.gCost);
+// }
 
-bool at_goal(pose_xyt_t goal, node pos);
-bool is_free(node node, const ObstacleDistanceGrid& distances);
-void expand(node node);
+bool at_goal(pose_xyt_t goal, Node pos);
+bool is_free(Node Node, const ObstacleDistanceGrid& distances);
+void expand(Node Node);
 double hCost(pose_xyt_t goal, pose_xyt_t pos);
-double dCost(SearchParams& const params, pose_xyt_t pos);
-double gCost(node node);
+double dCost(const SearchParams& params, pose_xyt_t pos);
+double gCost(Node Node);
 
 /**
 * search_for_path uses an A* search to find a path from the start to goal poses. The search assumes a circular robot
@@ -64,6 +66,6 @@ robot_path_t search_for_path(pose_xyt_t start,
                              const SearchParams& params);
 
 
-std::priority_queue<node> open_list;
-std::vector<node> closed_list;
+std::priority_queue<Node> open_list;
+std::vector<Node> closed_list;
 #endif // PLANNING_ASTAR_HPP

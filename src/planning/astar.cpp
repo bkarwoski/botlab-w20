@@ -1,5 +1,6 @@
 #include <planning/astar.hpp>
 #include <planning/obstacle_distance_grid.hpp>
+#include <planning/node.hpp>
 
 
 bool at_goal(pose_xyt_t goal, node pos){
@@ -17,7 +18,7 @@ double hCost(pose_xyt_t goal, pose_xyt_t pos){
     return 10 * (abs(goal.x - pos.x) + abs(goal.y - pos.y));
 }
 
-double dCost(SearchParams& const params, pose_xyt_t pos) {
+double dCost(const SearchParams& params, pose_xyt_t pos) {
     //todo after obstacle_distance_grid actually works
     return 0;
 }
@@ -48,10 +49,10 @@ robot_path_t search_for_path(pose_xyt_t start,
     // std::vector<node> closed_list;
     // std::priority_queue<node> open_list;
 
-    while (!at_goal(goal, currNode) && )
-    {
-        /* code */
-    }
+    // while (!at_goal(goal, currNode) && )
+    // {
+    //     /* code */
+    // }
     
     robot_path_t path;
     path.utime = start.utime;

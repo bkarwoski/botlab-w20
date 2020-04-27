@@ -10,7 +10,6 @@ ObstacleDistanceGrid::ObstacleDistanceGrid(void)
 {
 }
 
-
 void ObstacleDistanceGrid::setDistances(const OccupancyGrid& map)
 {
     resetGrid(map);
@@ -31,15 +30,13 @@ void ObstacleDistanceGrid::setDistances(const OccupancyGrid& map)
         }
     }
     // copy over log odd from map directly
-    // TODO: setting distances more intelligently
+    // TODO: setting distances more intelligently (brushfire algo?)
 }
-
 
 bool ObstacleDistanceGrid::isCellInGrid(int x, int y) const
 {
     return (x >= 0) && (x < width_) && (y >= 0) && (y < height_);
 }
-
 
 void ObstacleDistanceGrid::resetGrid(const OccupancyGrid& map)
 {
