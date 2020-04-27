@@ -26,7 +26,7 @@ void ObstacleDistanceGrid::setDistances(const OccupancyGrid& map)
             }
             if(map(x, y) > 0){
                 //likely occupied
-                distance(x, y) = 10000;
+                distance(x, y) = 1;
             }
         }
     }

@@ -28,22 +28,25 @@ struct node
 {
     node *parent;
     pose_xyt_t pose;
-    double cost;
+    double gCost;
     double hCost;
-    double dCost
+    double dCost;
 };
 
 bool operator < (const node &n_lhs, const node &n_rhs){
-    return (n_lhs.hCost + n_lhs.cost) < (n_rhs.hCost + n_rhs.cost);
+    return (n_lhs.hCost + n_lhs.gCost) < (n_rhs.hCost + n_rhs.gCost);
 }
 
 bool operator > (const node &n_lhs, const node &n_rhs){
-    return (n_lhs.hCost + n_lhs.cost) > (n_rhs.hCost + n_rhs.cost);
+    return (n_lhs.hCost + n_lhs.gCost) > (n_rhs.hCost + n_rhs.gCost);
 }
 
 bool at_goal(pose_xyt_t goal, node pos);
+bool is_free(node node, const ObstacleDistanceGrid& distances);
 void expand(node node);
 double hCost(pose_xyt_t goal, pose_xyt_t pos);
+double dCost(SearchParams& const params, pose_xyt_t pos);
+double gCost(node node);
 
 /**
 * search_for_path uses an A* search to find a path from the start to goal poses. The search assumes a circular robot
