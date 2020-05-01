@@ -3,19 +3,19 @@
 #include <planning/node.hpp>
 
 
-bool at_goal(pose_xyt_t goal, node pos){
-    return goal.x == pos.pose.x && goal.y == pos.pose.y;
+bool at_goal(pose_xyt_t goal, Node node){
+    return goal.x == node.x() && goal.y == node.y();
 }
 
-void expand(node node){
+void expand(Node node){
 //add the (up to) four nodes around the given node to the open list
 }
 
-double hCost(pose_xyt_t goal, pose_xyt_t pos){
+double hCost(pose_xyt_t goal, Node node){
     // L2 Distance
     //return sqrt(pow(goal.x - pos.x, 2) + pow(goal.y - pos.y, 2));
     // L1 Distance
-    return 10 * (abs(goal.x - pos.x) + abs(goal.y - pos.y));
+    return 10 * (abs(goal.x - node.x()) + abs(goal.y - node.y()));
 }
 
 double dCost(const SearchParams& params, pose_xyt_t pos) {
@@ -23,13 +23,13 @@ double dCost(const SearchParams& params, pose_xyt_t pos) {
     return 0;
 }
 
-double gCost(node node){
+double gCost(Node node){
     //can be expanded for 8-way search
     return node.parent->gCost + 10;
 }
 
-bool is_free(node node, const ObstacleDistanceGrid& distances){
-    if(distances(node.pose.x, node.pose.y) == 0) return true;
+bool is_free(Node node, const ObstacleDistanceGrid& distances){
+    if(distances(node.x(), node.y()) == 0) return true;
     return false;
 }
 
@@ -40,20 +40,11 @@ robot_path_t search_for_path(pose_xyt_t start,
 {
     ////////////////// TODO: Implement your A* search here //////////////////////////
     //if you're at the goal, construct the path and return it
-    node currNode;
-    currNode.pose = start;
-    currNode.gCost = 0;
-    currNode.hCost = hCost(goal, start);
+    Node currNode(start);
     currNode.dCost = 0; //TODO dCost(&params, currNode.pose);
-    currNode.parent = NULL;
     // std::vector<node> closed_list;
     // std::priority_queue<node> open_list;
-
-    // while (!at_goal(goal, currNode) && )
-    // {
-    //     /* code */
-    // }
-    
+    Node_list closedNodes();
     robot_path_t path;
     path.utime = start.utime;
     //push back all the previous nodes, while node->parent isn't null

@@ -6,18 +6,17 @@
 class Node
 {
     public:
-
     Node(pose_xyt_t); //setting up start node
-    Node(pose_xyt_t, const Node); //making new node w/ parent node
+    Node(pose_xyt_t, Node&); //making new node w/ parent node
     friend bool operator <(const Node& lhs, const Node& rhs);
     friend bool operator >(const Node& lhs, const Node& rhs);
-
-    private:
-    pose_xyt_t pose_;
-    Node *parent_;
-    double gCost_;
-    double hCost_;
-    double dCost_;
+    Node *parent;
+    double gCost;
+    double hCost;
+    double dCost;
+    pose_xyt_t pose;
+    int x(void) const {return pose.x;}
+    int y(void) const {return pose.y;}
 
 };
 #endif // NODE_HPP
