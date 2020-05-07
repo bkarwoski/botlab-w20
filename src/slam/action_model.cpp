@@ -26,7 +26,6 @@ ActionModel::ActionModel(void)
 
 bool ActionModel::updateAction(const pose_xyt_t& odometry)
 {
-    ////////////// TODO: Implement code here to compute a new distribution of the motion of the robot ////////////////
     if(!initialized_)
     {
         previousOdometry_ = odometry;

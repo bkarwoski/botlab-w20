@@ -12,7 +12,7 @@ int main(int argc, char** argv)
     const char* kMissOddsArg = "miss-odds";
     const char* kUseOptitrackArg = "use-optitrack";
     const char* kMappingOnlyArg = "mapping-only";
-        const char* kActionOnlyArg = "action-only";
+    const char* kActionOnlyArg = "action-only";
     const char* kLocalizationOnlyArg = "localization-only";
     
     // Handle Options

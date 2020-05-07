@@ -66,6 +66,4 @@ robot_path_t search_for_path(pose_xyt_t start,
                              const SearchParams& params);
 
 
-std::priority_queue<Node> open_list;
-std::vector<Node> closed_list;
 #endif // PLANNING_ASTAR_HPP

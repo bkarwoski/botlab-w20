@@ -257,6 +257,7 @@ void OccupancyGridSLAM::updateLocalization(void)
         previousPose_ = currentPose_;
         if(mode_ == action_only){
             currentPose_  = filter_.updateFilterActionOnly(currentOdometry_);
+            std::cout << "Action only filtering";
         }
         else{
             currentPose_  = filter_.updateFilter(currentOdometry_, currentScan_, map_);

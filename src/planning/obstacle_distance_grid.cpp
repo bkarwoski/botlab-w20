@@ -19,16 +19,58 @@ void ObstacleDistanceGrid::setDistances(const OccupancyGrid& map)
     {
         for(std::size_t x = 0; x < map.widthInCells(); ++x)
         {
-            if(map(x, y) <= 0){
-                //unsure or likely free
+            if(map(x, y) < 0){
+                //likely free
                 distance(x,y) = 0;
             }
-            if(map(x, y) > 0){
-                //likely occupied
+            if(map(x, y) >= 0){
+                //likely occupied, or unknown
                 distance(x, y) = 1;
             }
         }
     }
+    for(std::size_t y = 0; y < map.heightInCells(); ++y){
+        for(std::size_t x = 0; x < map.widthInCells(); ++x){
+            if(distance(x, y) == 0){
+                if(isCellInGrid(x+1, y) && distance(x+1, y) == 1){
+                    distance(x,y) = 0.05;
+                }
+                else if(isCellInGrid(x, y+1) && distance(x, y+1) == 1){
+                    distance(x,y) = 0.05;
+                }
+                else if(isCellInGrid(x-1, y) && distance(x-1, y) == 1){
+                    distance(x,y) = 0.05;
+                }
+                else if(isCellInGrid(x, y-1) && distance(x, y-1) == 1){
+                    distance(x,y) = 0.05;
+                }
+            }
+        }
+    }
+    // double maxDist = 0.25;
+    // for(double dist = 0.05; dist < maxDist; dist += 0.05){
+    //     for(std::size_t y = 0; y < map.heightInCells(); ++y){
+    //         for(std::size_t x = 0; x < map.widthInCells(); ++x){
+    //             if(distance(x, y) == 0){
+    //                     // std::cout << "found empty cell" << std::endl;
+    //                 if(isCellInGrid(x+1, y) && fabs(distance(x+1, y) - dist) < __FLT_EPSILON__)
+    //                 {
+    //                     distance(x,y) = dist + 0.05;
+    //                     std::cout << "to the right" << std::endl;
+    //                 }
+    //                 else if(isCellInGrid(x, y+1) && fabs(distance(x, y+1) - dist) < __FLT_EPSILON__){
+    //                     distance(x,y) = dist + 0.05;
+    //                 }
+    //                 else if(isCellInGrid(x-1, y) && fabs(distance(x-1, y) - dist) < __FLT_EPSILON__){
+    //                     distance(x,y) = dist + 0.05;
+    //                 }
+    //                 else if(isCellInGrid(x, y-1) && fabs(distance(x, y-1) - dist) < __FLT_EPSILON__){
+    //                     distance(x,y) = dist + 0.05;
+    //                 }
+    //             }
+    //         }
+    //     }
+    // }
     // copy over log odd from map directly
     // TODO: setting distances more intelligently (brushfire algo?)
 }

@@ -3,6 +3,9 @@
 #include <planning/node.hpp>
 
 
+std::priority_queue<Node> open_list;
+std::vector<Node> closed_list;
+
 bool at_goal(pose_xyt_t goal, Node node){
     return goal.x == node.x() && goal.y == node.y();
 }
@@ -40,18 +43,18 @@ robot_path_t search_for_path(pose_xyt_t start,
 {
     ////////////////// TODO: Implement your A* search here //////////////////////////
     //if you're at the goal, construct the path and return it
-    Node currNode(start);
-    currNode.dCost = 0; //TODO dCost(&params, currNode.pose);
+    // Node currNode(start);
+    // currNode.dCost = 0; //TODO dCost(&params, currNode.pose);
     // std::vector<node> closed_list;
     // std::priority_queue<node> open_list;
     Node_list closedNodes();
     robot_path_t path;
     path.utime = start.utime;
     //push back all the previous nodes, while node->parent isn't null
-    while(currNode.parent != NULL){
-        path.path.push_back(currNode.pose);
-        currNode = *currNode.parent;
-    }
+    // while(currNode.parent != NULL){
+    //     path.path.push_back(currNode.pose);
+    //     currNode = *currNode.parent;
+    // }
     path.path.push_back(start);
     path.path_length = path.path.size();
     return path;
