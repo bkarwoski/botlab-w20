@@ -1,0 +1,7353 @@
+TruePose:
+timestamp= 1512686868147997
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686868149346
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686868151324
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686868152903
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686868154931
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686868156538
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686868158005
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686868159577
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686868160990
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686868162475
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686868164018
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686868167735
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686868254037
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686868255997
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686868257248
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686868259252
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686868260824
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686868262623
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686868264216
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686868265790
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686868267325
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686868268932
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686868352765
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686868354671
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686868356532
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686868359589
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686868359632
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686868361115
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686868362645
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686868364108
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686868365671
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686868367169
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686868368739
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686868370204
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686868371713
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686868373691
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686868375011
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686868454950
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686868456736
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686868458357
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686868460499
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686868462168
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686868463725
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686868465314
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686868466874
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686868470281
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686868471812
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686868473493
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686868475051
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686868558566
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686868560240
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686868562392
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686868565881
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686868567396
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686868569016
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686868570539
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686868575254
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686868576819
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686868578297
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686868586089
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686868587652
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686868588992
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686868660548
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686868662341
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686868665563
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686868671717
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686868674102
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686868762056
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686868763931
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686868765275
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686868767548
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686868769076
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686868770801
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686868772376
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686868773922
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686868775485
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686868777048
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686868778621
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686868780183
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686868784143
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686868785985
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686868866300
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686868874952
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686868876486
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686868877900
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686868879217
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686868885160
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686868886782
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686868966856
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686868979210
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686868981047
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686868982791
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686868984391
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686868985959
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686868987520
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686869069285
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686869070957
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686869072925
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686869074408
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686869076007
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686869077502
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686869081351
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686869082855
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686869084457
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686869085961
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686869087410
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686869088933
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686869090393
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686869092356
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686869093750
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686869171869
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686869173504
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686869174840
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686869176812
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686869178359
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686869179915
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686869181830
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686869183370
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686869185002
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686869186541
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686869275643
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686869277108
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686869278624
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686869280132
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686869281708
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686869283143
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686869284637
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686869286119
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686869287723
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686869289225
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686869290700
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686869292467
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686869377647
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686869381398
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686869382931
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686869386328
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686869387863
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686869389513
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686869391061
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686869392573
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686869394228
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686869396105
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686869397547
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686869406813
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686869478814
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686869482425
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686869482492
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686869485278
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686869486932
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686869488528
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686869491695
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686869491753
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686869493216
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686869494811
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686869581652
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686869584805
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686869589285
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686869590686
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686869592234
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686869593766
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686869596107
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686869597643
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686869599122
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686869600616
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686869602152
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686869604202
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686869605597
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686869683988
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686869685511
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686869689231
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686869690787
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686869697434
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686869698925
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686869700494
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686869702186
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686869703724
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686869705246
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686869790132
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686869791595
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686869793135
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686869794503
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686869796486
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686869798013
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686869800333
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686869801821
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686869803364
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686869804874
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686869839918
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686869889784
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686869891304
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686869893513
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686869895022
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686869896659
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686869898227
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686869899763
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686869901282
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686869903184
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686869904690
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686869906226
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686869907786
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686869991210
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686869992825
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686869994171
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686869998820
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686870000317
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686870001821
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686870003332
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686870004870
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686870006305
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686870007830
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686870009388
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686870010882
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686870012953
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686870014247
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686870093790
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686870095322
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686870096953
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686870098505
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686870100547
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686870102026
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686870104208
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686870105734
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686870108985
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686870110549
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686870197145
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686870198768
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686870200284
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686870201792
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686870203299
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686870204843
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686870206324
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686870207868
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686870209397
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686870210908
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686870212437
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686870214614
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686870217159
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686870218535
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686870298084
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686870299852
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686870301938
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686870303583
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686870305293
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686870306866
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686870312956
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686870319999
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686870321495
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686870326254
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686870400837
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686870404027
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686870405706
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686870407768
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686870409305
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686870411114
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686870416103
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686870417681
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686870419235
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686870420720
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686870424134
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686870503313
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686870504664
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686870506622
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686870508175
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686870509797
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686870511329
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686870512929
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686870514465
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686870516419
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686870517900
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686870520223
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686870521769
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686870605858
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686870607283
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686870608897
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686870612121
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686870615953
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686870617607
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686870622156
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686870625447
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686870627194
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686870628697
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686870634779
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686870708064
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686870709523
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686870711644
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686870713213
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686870714758
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686870716318
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686870717828
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686870720195
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686870721632
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686870723142
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686870730278
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686870731644
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686870810061
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686870812162
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686870813348
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686870815828
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686870817475
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686870818912
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686870820466
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686870822035
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686870823593
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686870917143
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686870918627
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686870926964
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686870930718
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686870932177
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686870933678
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686870935197
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686870936761
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686870939933
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686870941471
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686870944583
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686871015525
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686871017079
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686871018642
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686871020202
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686871030324
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686871031991
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686871033529
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686871043427
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686871044788
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686871130423
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686871131974
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686871133472
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686871134940
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686871136484
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686871138044
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686871139526
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686871140988
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686871142523
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686871144775
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686871146171
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686871220696
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686871222291
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686871224172
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686871225803
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686871227906
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686871229507
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686871231028
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686871232593
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686871234135
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686871235667
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686871237283
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686871239671
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686871328947
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686871429840
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686871431637
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686871433614
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686871438327
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686871439810
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686871441516
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686871443351
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686871444890
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686871446417
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686871447955
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686871449441
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686871450977
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686871452448
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686871453990
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686871455532
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686871629785
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686871634121
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686871635670
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686871637236
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686871638781
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686871641290
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686871642864
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686871644319
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686871645850
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686871647327
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686871648912
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686871650378
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686871651888
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686871653427
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686871654909
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686871656419
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686871657949
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686871659568
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686871661009
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686871662540
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686871664112
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686871665634
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686871735409
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686871737040
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686871738576
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686871743619
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686871745130
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686871746596
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686871748094
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686871749592
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686871751196
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686871752649
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686871754132
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686871755689
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686871757185
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686871758723
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686871937196
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686871938578
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686871940504
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686871942063
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686871943669
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686871945200
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686871946760
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686871948303
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686871965423
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686871966959
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686871968464
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686871969969
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686871971217
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686872146715
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686872148237
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686872149730
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686872151239
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686872152792
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686872154361
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686872155897
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686872157398
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686872158786
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686872160335
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686872161900
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686872163359
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686872164915
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686872166418
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686872167887
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686872169386
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686872170918
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686872172417
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686872173913
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686872175498
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686872176978
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686872178475
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686872346657
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686872351422
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686872353018
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686872354487
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686872356047
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686872361018
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686872363367
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686872367718
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686872369187
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686872370723
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686872372237
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686872373743
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686872375254
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686872376775
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686872378263
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686872379840
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686872381373
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686872382872
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686872384370
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686872385909
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686872387441
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686872388984
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686872390453
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686872392022
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686872393470
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686872394970
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686872396492
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686872397974
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686872400350
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686872401802
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686872448879
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686872450392
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686872451977
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686872458430
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686872559562
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686872561072
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686872563243
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686872564759
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686872567279
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686872568794
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686872570265
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686872571862
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686872573369
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686872574819
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686872576387
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686872577855
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686872579375
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686872580921
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686872582423
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686872583900
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686872585440
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686872587940
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686872589840
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686872661503
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686872663040
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686872664498
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686872763331
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686872764819
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686872766297
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686872767814
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686872769343
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686872770851
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686872772354
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686872773859
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686872775377
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686872960771
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686872962681
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686872964195
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686872965795
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686872967237
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686872968892
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686872970311
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686872971841
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686872973304
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686872974817
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686872976364
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686872977848
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686872979378
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686872980896
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686872982400
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686872983928
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686872985439
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686872986932
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686872988446
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686872989950
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686872991751
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686872993250
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686872994734
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686872996252
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686872997788
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686872999293
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686873002531
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686873064603
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686873066142
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686873074216
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686873077189
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686873078627
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686873080191
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686873081957
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686873083973
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686873085318
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686873165800
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686873167302
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686873168824
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686873170293
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686873171780
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686873173306
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686873174807
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686873176314
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686873177886
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686873179362
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686873180875
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686873182382
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686873370601
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686873381561
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686873383157
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686873384691
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686873387074
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686873388729
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686873391293
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686873398092
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686873399639
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686873401162
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686873402471
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686873405402
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686873406915
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686873409160
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686873410705
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686873412299
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686873413771
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686873415276
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686873575316
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686873576795
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686873578348
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686873579872
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686873581466
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686873583270
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686873584773
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686873586570
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686873589853
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686873591438
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686873597394
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686873598954
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686873600621
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686873602158
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686873607404
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686873608973
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686873610442
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686873611965
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686873613481
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686873614998
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686873677642
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686873679258
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686873680758
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686873683292
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686873686098
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686873687636
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686873689141
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686873690695
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686873692238
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686873693731
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686873695244
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686873696847
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686873698350
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686873699854
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686873883130
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686873885734
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686873887237
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686873888762
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686873890284
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686873891850
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686873893295
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686873894837
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686873896362
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686873897866
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686873899370
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686873900899
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686873902399
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686873903960
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686873905482
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686873906951
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686873908472
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686873909939
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686873911530
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686873913037
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686873914538
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686873916080
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686873917578
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686873919051
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686873920698
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686873991456
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686873993004
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686874191375
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686874194355
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686874196987
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686874198535
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686874203266
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686874205336
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686874206777
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686874208759
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686874210240
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686874211768
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686874405948
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686874407426
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686874408908
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686874410369
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686874411922
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686874413422
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686874414918
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686874416498
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686874417966
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686874419510
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686874421000
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686874422533
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686874424121
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686874425625
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686874427071
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686874428662
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686874430064
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686874431602
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686874433140
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686874434644
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686874436154
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686874437683
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686874439159
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686874440690
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686874442227
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686874443693
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686874445237
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686874446751
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686874448278
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686874449742
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686874451286
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686874452826
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686874454328
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686874455835
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686874457360
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686874603930
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686874605616
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686874607388
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686874609213
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686874610736
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686874612188
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686874613707
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686874615267
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686874616738
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686874618306
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686874619815
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686874621316
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686874622802
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686874624300
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686874625835
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686874627331
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686874628827
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686874630356
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686874631924
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686874637980
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686874702478
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686874703970
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686874705538
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686874707116
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686874708653
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686874710657
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686874712468
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686874714390
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686874715915
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686874806611
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686874808806
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686874810304
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686874811878
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686874813331
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686874814896
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686874816340
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686874817923
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686874819365
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686874820919
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686874822442
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686874823904
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875009114
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875010616
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875012156
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875013623
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875015145
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875016633
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875018184
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875019718
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875021184
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875022740
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875024216
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875025753
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875027295
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875028774
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875030293
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875031843
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875033343
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875034838
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875036353
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875037840
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875039392
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875040893
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875042427
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875043936
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875047111
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875218173
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875219686
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875221272
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875225586
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875227093
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875229339
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875230895
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875232450
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875234995
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875236547
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875238149
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875240924
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875242470
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875244063
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875245627
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875247561
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875249153
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875250655
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875252156
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875253765
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875255153
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875256692
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875258241
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875420350
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875421429
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875424547
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875424619
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875426077
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875428637
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875430207
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875431745
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875433278
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875437821
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875441066
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875441531
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875443110
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875446332
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875446386
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875449795
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875451274
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875452866
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875454372
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875455884
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875457381
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875458888
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875460491
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875461969
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875465343
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875521809
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875628034
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875631593
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875631626
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875633298
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875635309
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875636856
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875638414
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875639941
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875641481
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875643056
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875725802
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875727902
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875729753
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875731206
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875732782
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875734299
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875735802
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875737266
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875738832
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875740242
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875741769
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875743305
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875744807
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875746300
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875747811
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875749302
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875750870
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875752366
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875753901
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875755402
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875756897
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875758446
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875759949
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875761480
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875828147
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875829746
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875831248
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875834096
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875835632
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875837262
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875838735
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875840495
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875842031
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875930221
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875932149
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875934671
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875935936
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875938131
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875939740
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875947244
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875948724
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875950184
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875951712
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875953201
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875954718
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875956252
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686875960605
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686876038324
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686876043219
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686876046194
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686876048208
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686876049924
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686876051305
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686876146105
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686876147612
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686876149153
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686876150625
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686876152160
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686876153675
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686876157928
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686876238377
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686876239710
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686876244887
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686876250147
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686876251603
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686876253077
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686876254650
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686876256155
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686876257656
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686876449114
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686876450646
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686876456263
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686876468379
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686876469879
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686876471371
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686876472840
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686876474311
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686876475858
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686876477345
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686876478846
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686876480382
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686876647808
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686876649320
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686876650873
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686876653408
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686876654961
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686876656453
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686876657968
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686876659514
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686876661045
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686876662548
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686876664015
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686876665563
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686876667059
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686876668604
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686876670100
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686876671709
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686876673149
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686876674603
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686876676121
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686876677627
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686876679121
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686876680654
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686876682177
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686876683700
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686876859538
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686876862786
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686876865086
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686876866501
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686876868031
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686876869536
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686876871034
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686876872554
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686876874080
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686876875571
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686876877150
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686876878648
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686876880114
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686876881644
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686876883170
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686876884661
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686876886191
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686876887729
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686876889245
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686876890747
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686877057213
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686877058719
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686877060258
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686877061824
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686877063324
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686877064787
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686877066323
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686877067869
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686877069385
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686877070869
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686877072415
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686877073922
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686877075380
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686877076959
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686877078470
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686877079919
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686877081475
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686877082951
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686877084498
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686877085995
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686877087545
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686877089022
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686877090529
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686877092162
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686877093601
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686877095114
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686877097889
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686877099183
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686877159570
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686877161154
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686877167689
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686877169508
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686877173410
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686877174882
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686877176342
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686877177888
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686877179424
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686877180924
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686877182385
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686877364078
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686877365794
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686877369489
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686877373422
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686877374955
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686877376450
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686877377966
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686877380979
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686877382498
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686877384103
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686877385604
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686877387002
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686877388523
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686877390079
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686877391583
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686877393086
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686877394582
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686877396147
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686877397636
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686877399122
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686877400624
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686877574986
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686877576504
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686877577949
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686877579384
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686877580901
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686877582434
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686877583939
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686877586943
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686877588482
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686877589983
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686877591492
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686877593025
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686877594530
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686877596054
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686877597604
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686877599116
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686877600642
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686877602178
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686877603634
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686877605134
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686877606665
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686877608189
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686877611431
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686877673187
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686877674776
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686877774317
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686877775802
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686877777302
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686877778827
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686877780350
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686877781967
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686877783515
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686877784889
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686877786406
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686877787905
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686877789458
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686877790957
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686877792462
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686877793997
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686877795501
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686877796985
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686877798560
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686877800135
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686877801641
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686877803092
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686877804613
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686877806140
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686877807623
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686877809148
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686877982256
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686877983778
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686877989198
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686877990698
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686877993198
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686877994638
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686878005763
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686878007276
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686878008807
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686878017008
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686878037245
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686878184579
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686878185938
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686878188081
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686878196024
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686878200564
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686878202389
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686878203921
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686878205748
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686878208939
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686878215320
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686878388490
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686878391681
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686878391753
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686878393495
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686878395030
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686878396694
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686878398132
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686878399770
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686878408405
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686878409864
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686878411473
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686878413007
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686878414813
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686878419857
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686878491493
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686878496632
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686878498296
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686878499700
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686878501215
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686878502723
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686878504255
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686878505795
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686878507273
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686878508798
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686878510340
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686878511929
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686878513444
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686878515558
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686878516923
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686878593347
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686878594644
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686878596477
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686878599058
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686878608277
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686878609847
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686878611447
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686878613398
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686878697754
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686878699260
+pose: (0, 0, 0)
+TruePose:
+timestamp= 1512686878700891
+pose: (1, 0, 0)
+TruePose:
+timestamp= 1512686878702353
+pose: (1, 0, 0)
+TruePose:
+timestamp= 1512686878703835
+pose: (1, 0, 0)
+TruePose:
+timestamp= 1512686878705358
+pose: (1, 0, 0)
+TruePose:
+timestamp= 1512686878706836
+pose: (1, 0, 0)
+TruePose:
+timestamp= 1512686878708346
+pose: (1, 0, 0)
+TruePose:
+timestamp= 1512686878709901
+pose: (1, 0, 0)
+TruePose:
+timestamp= 1512686878711221
+pose: (1, 0, 0)
+TruePose:
+timestamp= 1512686878712952
+pose: (1, 0, 0)
+TruePose:
+timestamp= 1512686878716170
+pose: (1, 0, 0)
+TruePose:
+timestamp= 1512686878799937
+pose: (1, 0, 0)
+TruePose:
+timestamp= 1512686878807131
+pose: (1, 0, 0)
+TruePose:
+timestamp= 1512686878808634
+pose: (1, 0, 0)
+TruePose:
+timestamp= 1512686878811897
+pose: (1, 0, 0)
+TruePose:
+timestamp= 1512686878813517
+pose: (1, 0, 0)
+TruePose:
+timestamp= 1512686878815019
+pose: (1, 0, 0)
+TruePose:
+timestamp= 1512686878900290
+pose: (1, 0, 0)
+TruePose:
+timestamp= 1512686878902174
+pose: (1, 0, 0)
+TruePose:
+timestamp= 1512686878903491
+pose: (1, 0, 0)
+TruePose:
+timestamp= 1512686878905500
+pose: (1, 0, 0)
+TruePose:
+timestamp= 1512686878907036
+pose: (1, 0, 0)
+TruePose:
+timestamp= 1512686878908638
+pose: (1, 0, 0)
+TruePose:
+timestamp= 1512686878910330
+pose: (1, 0, 0)
+TruePose:
+timestamp= 1512686878911865
+pose: (1, 0, 0)
+TruePose:
+timestamp= 1512686878913328
+pose: (1, 0, 0)
+TruePose:
+timestamp= 1512686878919945
+pose: (1, 0, 0)
+TruePose:
+timestamp= 1512686878921453
+pose: (1, 0, 0)
+TruePose:
+timestamp= 1512686878923322
+pose: (1, 0, 0)
+TruePose:
+timestamp= 1512686878924825
+pose: (1, 0, 0)
+TruePose:
+timestamp= 1512686878926323
+pose: (1, 0, 0)
+TruePose:
+timestamp= 1512686878928137
+pose: (1, 0, 0)
+TruePose:
+timestamp= 1512686879003143
+pose: (1, 0, 0)
+TruePose:
+timestamp= 1512686879004515
+pose: (1, 0, 0)
+TruePose:
+timestamp= 1512686879006241
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686879009270
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686879009338
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686879010814
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686879012379
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686879013859
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686879105001
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686879106444
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686879108478
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686879110009
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686879111554
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686879113853
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686879117313
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686879120578
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686879124002
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686879127242
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686879131129
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686879132642
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686879135217
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686879136726
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686879138214
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686879139780
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686879310055
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686879313284
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686879315306
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686879316870
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686879318287
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686879320480
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686879322016
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686879323619
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686879325477
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686879326917
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686879328580
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686879331155
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686879333612
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686879336288
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686879337790
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686879339281
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686879340833
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686879342284
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686879343839
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686879345379
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686879346821
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686879348359
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686879349878
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686879351378
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686879354564
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686879356024
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686879517342
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686879518950
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686879520410
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686879522317
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686879523870
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686879525491
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686879526942
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686879528569
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686879530403
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686879531856
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686879536583
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686879538120
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686879539603
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686879541089
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686879542587
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686879544083
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686879545596
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686879720635
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686879723506
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686879725041
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686879727654
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686879730989
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686879732536
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686879734117
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686879735682
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686879738377
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686879739911
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686879741394
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686879742848
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686879744389
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686879745900
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686879747429
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686879748957
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686879750458
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686879751962
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686879753481
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686879754985
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686879756503
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686879758029
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686879759658
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686879761098
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686879762558
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686879764104
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686879765637
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686879767092
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686879768651
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686879925092
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686879926699
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686879928050
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686879933909
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686879935533
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686879937423
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686879938898
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686879940463
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686879941932
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686879943411
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686879945006
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686879946426
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686879947974
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686879949443
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686879950947
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686879952480
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686879953984
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686879955563
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686879957065
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686879958553
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686879960174
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686880130305
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686880131723
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686880133710
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686880135274
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686880137231
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686880138762
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686880140267
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686880141767
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686880143310
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686880144851
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686880146295
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686880147843
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686880149374
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686880150873
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686880152429
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686880153932
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686880155441
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686880156973
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686880158487
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686880159941
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686880161453
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686880162978
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686880164477
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686880166001
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686880167515
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686880333886
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686880335409
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686880337857
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686880339370
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686880340878
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686880342367
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686880343862
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686880345403
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686880346861
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686880348436
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686880349896
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686880351466
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686880352969
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686880354508
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686880356010
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686880357551
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686880359046
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686880360508
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686880362073
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686880363545
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686880365047
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686880366549
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686880368094
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686880369621
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686880371098
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686880372633
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686880377930
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686880435979
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686880438963
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686880440883
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686880442415
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686880443996
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686880445558
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686880447416
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686880448944
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686880450572
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686880452477
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686880454097
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686880455631
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686880457457
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686880538616
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686880540089
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686880541591
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686880543114
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686880544589
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686880546097
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686880547657
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686880549132
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686880550634
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686880552275
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686880554909
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686880556508
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686880641135
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686880744700
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686880746200
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686880747781
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686880749324
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686880750888
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686880752451
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686880753976
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686880755581
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686880757173
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686880758758
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686880760310
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686880761944
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686880763424
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686880764982
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686880767778
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686880846033
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686880847572
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686880849949
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686880852332
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686880856574
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686880858167
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686880861883
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686880863375
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686880864922
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686880866364
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686880867961
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686880869467
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686880870876
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686880872440
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686880873896
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686880875514
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686880876914
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686880878487
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686881053218
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686881059829
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686881061315
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686881062871
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686881064387
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686881065915
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686881067377
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686881068954
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686881070452
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686881071922
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686881073458
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686881074975
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686881076506
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686881078039
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686881079614
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686881081053
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686881082587
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686881084055
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686881085553
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686881087045
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686881088583
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686881090087
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686881266966
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686881268485
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686881269984
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686881271474
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686881273029
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686881274531
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686881276036
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686881277547
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686881279110
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686881280636
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686881282140
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686881283747
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686881285186
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686881286629
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686881288291
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686881289792
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686881291237
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686881461717
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686881463244
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686881464804
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686881466307
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686881467810
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686881469347
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686881470788
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686881472239
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686881473829
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686881475300
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686881487403
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686881488922
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686881490420
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686881491917
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686881493457
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686881494962
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686881496467
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686881498039
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686881666107
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686881671373
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686881674559
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686881676174
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686881677901
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686881693446
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686881696851
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686881698388
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686881701585
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686881715587
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686881717122
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686881870497
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686882076505
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686882078099
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686882082875
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686882084398
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686882100504
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686882103855
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686882105406
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686882119351
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686882120832
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686882122304
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686882123806
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686882125343
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686882126905
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686882128373
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686882280515
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686882282076
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686882283722
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686882286408
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686882287728
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686882289864
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686882291795
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686882293327
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686882302380
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686882303984
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686882305488
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686882308031
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686882486150
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686882487869
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686882489387
+pose: (1, 0, 1)
+TruePose:
+timestamp= 1512686882490945
+pose: (1, 0, 2)
+TruePose:
+timestamp= 1512686882492817
+pose: (1, 0, 2)
+TruePose:
+timestamp= 1512686882494302
+pose: (1, 0, 2)
+TruePose:
+timestamp= 1512686882495914
+pose: (1, 0, 2)
+TruePose:
+timestamp= 1512686882497551
+pose: (1, 0, 2)
+TruePose:
+timestamp= 1512686882499350
+pose: (1, 0, 2)
+TruePose:
+timestamp= 1512686882502675
+pose: (1, 0, 2)
+TruePose:
+timestamp= 1512686882504174
+pose: (1, 0, 2)
+TruePose:
+timestamp= 1512686882505685
+pose: (1, 0, 2)
+TruePose:
+timestamp= 1512686882507175
+pose: (1, 0, 2)
+TruePose:
+timestamp= 1512686882508720
+pose: (1, 0, 2)
+TruePose:
+timestamp= 1512686882510260
+pose: (1, 0, 2)
+TruePose:
+timestamp= 1512686882511719
+pose: (1, 0, 2)
+TruePose:
+timestamp= 1512686882513269
+pose: (1, 0, 2)
+TruePose:
+timestamp= 1512686882514772
+pose: (1, 0, 2)
+TruePose:
+timestamp= 1512686882516283
+pose: (1, 0, 2)
+TruePose:
+timestamp= 1512686882517772
+pose: (1, 0, 2)
+TruePose:
+timestamp= 1512686882519264
+pose: (1, 0, 2)
+TruePose:
+timestamp= 1512686882520802
+pose: (1, 0, 2)
+TruePose:
+timestamp= 1512686882522302
+pose: (1, 0, 2)
+TruePose:
+timestamp= 1512686882523814
+pose: (1, 0, 2)
+TruePose:
+timestamp= 1512686882525394
+pose: (1, 0, 2)
+TruePose:
+timestamp= 1512686882526884
+pose: (1, 0, 2)
+TruePose:
+timestamp= 1512686882528375
+pose: (1, 0, 2)
+TruePose:
+timestamp= 1512686882529868
+pose: (1, 0, 2)
+TruePose:
+timestamp= 1512686882531455
+pose: (1, 0, 2)
+TruePose:
+timestamp= 1512686882532897
+pose: (1, 0, 2)
+TruePose:
+timestamp= 1512686882534447
+pose: (1, 0, 2)
+TruePose:
+timestamp= 1512686882535987
+pose: (1, 0, 2)
+TruePose:
+timestamp= 1512686882537493
+pose: (1, 0, 2)
+TruePose:
+timestamp= 1512686882539222
+pose: (1, 0, 2)
+TruePose:
+timestamp= 1512686882544148
+pose: (1, 0, 2)
+TruePose:
+timestamp= 1512686882545613
+pose: (1, 0, 2)
+TruePose:
+timestamp= 1512686882547168
+pose: (1, 0, 2)
+TruePose:
+timestamp= 1512686882548691
+pose: (1, 0, 2)
+TruePose:
+timestamp= 1512686882586687
+pose: (1, 0, 2)
+TruePose:
+timestamp= 1512686882588212
+pose: (1, 0, 2)
+TruePose:
+timestamp= 1512686882590453
+pose: (1, 0, 2)
+TruePose:
+timestamp= 1512686882591988
+pose: (1, 0, 2)
+TruePose:
+timestamp= 1512686882593579
+pose: (1, 0, 2)
+TruePose:
+timestamp= 1512686882595203
+pose: (1, 0, 2)
+TruePose:
+timestamp= 1512686882597701
+pose: (1, 0, 2)
+TruePose:
+timestamp= 1512686882689087
+pose: (1, 0, 2)
+TruePose:
+timestamp= 1512686882692374
+pose: (1, 0, 2)
+TruePose:
+timestamp= 1512686882692426
+pose: (1, 0, 2)
+TruePose:
+timestamp= 1512686882694377
+pose: (0, 0, 2)
+TruePose:
+timestamp= 1512686882695891
+pose: (0, 0, 2)
+TruePose:
+timestamp= 1512686882697528
+pose: (0, 0, 2)
+TruePose:
+timestamp= 1512686882699053
+pose: (0, 0, 2)
+TruePose:
+timestamp= 1512686882701879
+pose: (0, 0, 2)
+TruePose:
+timestamp= 1512686882704088
+pose: (0, 0, 2)
+TruePose:
+timestamp= 1512686882705576
+pose: (0, 0, 2)
+TruePose:
+timestamp= 1512686882707099
+pose: (0, 0, 2)
+TruePose:
+timestamp= 1512686882708634
+pose: (0, 0, 2)
+TruePose:
+timestamp= 1512686882898975
+pose: (0, 0, 2)
+TruePose:
+timestamp= 1512686882900342
+pose: (0, 1, 2)
+TruePose:
+timestamp= 1512686882906232
+pose: (0, 1, 2)
+TruePose:
+timestamp= 1512686882907710
+pose: (0, 1, 2)
+TruePose:
+timestamp= 1512686882909205
+pose: (0, 1, 2)
+TruePose:
+timestamp= 1512686882910676
+pose: (0, 1, 2)
+TruePose:
+timestamp= 1512686882912173
+pose: (0, 1, 2)
+TruePose:
+timestamp= 1512686882913724
+pose: (0, 1, 2)
+TruePose:
+timestamp= 1512686882915295
+pose: (0, 1, 2)
+TruePose:
+timestamp= 1512686882916717
+pose: (0, 1, 2)
+TruePose:
+timestamp= 1512686882918291
+pose: (0, 1, 2)
+TruePose:
+timestamp= 1512686882919784
+pose: (0, 1, 2)
+TruePose:
+timestamp= 1512686882921299
+pose: (0, 1, 2)
+TruePose:
+timestamp= 1512686882922835
+pose: (0, 1, 2)
+TruePose:
+timestamp= 1512686882924412
+pose: (0, 1, 2)
+TruePose:
+timestamp= 1512686882925853
+pose: (0, 1, 2)
+TruePose:
+timestamp= 1512686882927338
+pose: (0, 1, 2)
+TruePose:
+timestamp= 1512686882928859
+pose: (0, 1, 2)
+TruePose:
+timestamp= 1512686882930347
+pose: (0, 1, 2)
+TruePose:
+timestamp= 1512686882931866
+pose: (0, 1, 2)
+TruePose:
+timestamp= 1512686882933407
+pose: (0, 1, 2)
+TruePose:
+timestamp= 1512686882940630
+pose: (0, 1, 2)
+TruePose:
+timestamp= 1512686882997281
+pose: (0, 1, 2)
+TruePose:
+timestamp= 1512686882998806
+pose: (0, 1, 2)
+TruePose:
+timestamp= 1512686883000412
+pose: (0, 1, 2)
+TruePose:
+timestamp= 1512686883001915
+pose: (0, 1, 2)
+TruePose:
+timestamp= 1512686883005402
+pose: (0, 1, 2)
+TruePose:
+timestamp= 1512686883006910
+pose: (0, 1, 2)
+TruePose:
+timestamp= 1512686883008444
+pose: (0, 1, 2)
+TruePose:
+timestamp= 1512686883010064
+pose: (0, 1, 2)
+TruePose:
+timestamp= 1512686883011612
+pose: (0, 1, 2)
+TruePose:
+timestamp= 1512686883098797
+pose: (0, 1, 2)
+TruePose:
+timestamp= 1512686883100477
+pose: (0, 1, 2)
+TruePose:
+timestamp= 1512686883101926
+pose: (0, 1, 2)
+TruePose:
+timestamp= 1512686883103929
+pose: (0, 1, 2)
+TruePose:
+timestamp= 1512686883105463
+pose: (0, 1, 2)
+TruePose:
+timestamp= 1512686883106969
+pose: (0, 1, 2)
+TruePose:
+timestamp= 1512686883108439
+pose: (0, 1, 2)
+TruePose:
+timestamp= 1512686883109998
+pose: (0, 1, 2)
+TruePose:
+timestamp= 1512686883111469
+pose: (0, 1, 2)
+TruePose:
+timestamp= 1512686883112999
+pose: (0, 1, 2)
+TruePose:
+timestamp= 1512686883114536
+pose: (0, 1, 2)
+TruePose:
+timestamp= 1512686883116018
+pose: (0, 1, 2)
+TruePose:
+timestamp= 1512686883117519
+pose: (0, 1, 2)
+TruePose:
+timestamp= 1512686883118998
+pose: (0, 1, 2)
+TruePose:
+timestamp= 1512686883121924
+pose: (0, 1, 2)
+TruePose:
+timestamp= 1512686883123319
+pose: (0, 1, 2)
+TruePose:
+timestamp= 1512686883202803
+pose: (0, 1, 2)
+TruePose:
+timestamp= 1512686883208388
+pose: (0, 1, 2)
+TruePose:
+timestamp= 1512686883209976
+pose: (0, 1, 2)
+TruePose:
+timestamp= 1512686883213219
+pose: (0, 1, 2)
+TruePose:
+timestamp= 1512686883216418
+pose: (0, 1, 2)
+TruePose:
+timestamp= 1512686883217982
+pose: (0, 1, 2)
+TruePose:
+timestamp= 1512686883219515
+pose: (0, 1, 2)
+TruePose:
+timestamp= 1512686883306775
+pose: (0, 1, 2)
+TruePose:
+timestamp= 1512686883308243
+pose: (0, 1, 2)
+TruePose:
+timestamp= 1512686883309786
+pose: (0, 1, 2)
+TruePose:
+timestamp= 1512686883311274
+pose: (0, 1, 2)
+TruePose:
+timestamp= 1512686883312779
+pose: (0, 1, 2)
+TruePose:
+timestamp= 1512686883314282
+pose: (0, 1, 2)
+TruePose:
+timestamp= 1512686883315817
+pose: (0, 1, 2)
+TruePose:
+timestamp= 1512686883317367
+pose: (0, 1, 2)
+TruePose:
+timestamp= 1512686883324895
+pose: (0, 1, 3)
+TruePose:
+timestamp= 1512686883328096
+pose: (0, 1, 3)
+TruePose:
+timestamp= 1512686883329475
+pose: (0, 1, 3)
+TruePose:
+timestamp= 1512686883405888
+pose: (0, 1, 3)
+TruePose:
+timestamp= 1512686883407892
+pose: (0, 1, 3)
+TruePose:
+timestamp= 1512686883411200
+pose: (0, 1, 3)
+TruePose:
+timestamp= 1512686883424836
+pose: (0, 1, -3)
+TruePose:
+timestamp= 1512686883426370
+pose: (0, 1, -3)
+TruePose:
+timestamp= 1512686883427798
+pose: (0, 1, -3)
+TruePose:
+timestamp= 1512686883436903
+pose: (0, 1, -3)
+TruePose:
+timestamp= 1512686883509994
+pose: (0, 1, -3)
+TruePose:
+timestamp= 1512686883510681
+pose: (0, 1, -3)
+TruePose:
+timestamp= 1512686883513017
+pose: (0, 1, -3)
+TruePose:
+timestamp= 1512686883514556
+pose: (0, 1, -3)
+TruePose:
+timestamp= 1512686883516083
+pose: (0, 1, -3)
+TruePose:
+timestamp= 1512686883517607
+pose: (0, 1, -3)
+TruePose:
+timestamp= 1512686883520053
+pose: (0, 1, -3)
+TruePose:
+timestamp= 1512686883521592
+pose: (0, 1, -3)
+TruePose:
+timestamp= 1512686883523142
+pose: (0, 1, -3)
+TruePose:
+timestamp= 1512686883524925
+pose: (0, 1, -3)
+TruePose:
+timestamp= 1512686883526870
+pose: (0, 1, -3)
+TruePose:
+timestamp= 1512686883612332
+pose: (0, 1, -3)
+TruePose:
+timestamp= 1512686883615360
+pose: (0, 1, -2)
+TruePose:
+timestamp= 1512686883619122
+pose: (0, 1, -2)
+TruePose:
+timestamp= 1512686883622175
+pose: (0, 1, -2)
+TruePose:
+timestamp= 1512686883631719
+pose: (0, 1, -2)
+TruePose:
+timestamp= 1512686883633254
+pose: (0, 1, -2)
+TruePose:
+timestamp= 1512686883634651
+pose: (0, 1, -2)
+TruePose:
+timestamp= 1512686883636294
+pose: (0, 1, -2)
+TruePose:
+timestamp= 1512686883637698
+pose: (0, 1, -2)
+TruePose:
+timestamp= 1512686883639259
+pose: (0, 1, -2)
+TruePose:
+timestamp= 1512686883717844
+pose: (0, 1, -2)
+TruePose:
+timestamp= 1512686883720385
+pose: (0, 1, -2)
+TruePose:
+timestamp= 1512686883721866
+pose: (0, 1, -2)
+TruePose:
+timestamp= 1512686883728291
+pose: (0, 1, -2)
+TruePose:
+timestamp= 1512686883729832
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686883731342
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686883733409
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686883736260
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686883739973
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686883743236
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686883744835
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686883747156
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686883816200
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686883817991
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686883819285
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686883821292
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686883823054
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686883829880
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686883831305
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686883832769
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686883834309
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686883836315
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686883838031
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686883924849
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686883928457
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686883933292
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686883934798
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686883938281
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686883940194
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686884022146
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686884027609
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686884029126
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686884030636
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686884032161
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686884033663
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686884035202
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686884036711
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686884038186
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686884039820
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686884041355
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686884228098
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686884229613
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686884231203
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686884232796
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686884234243
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686884235739
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686884237271
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686884238721
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686884240271
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686884241775
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686884243304
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686884244757
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686884246281
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686884247838
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686884249309
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686884250831
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686884252368
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686884253906
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686884255398
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686884256896
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686884258390
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686884259934
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686884262085
+pose: (0, 0, -3)
+TruePose:
+timestamp= 1512686884431512
+pose: (0, 0, -3)
+TruePose:
+timestamp= 1512686884433011
+pose: (0, 0, -3)
+TruePose:
+timestamp= 1512686884434525
+pose: (0, 0, -3)
+TruePose:
+timestamp= 1512686884436178
+pose: (0, 0, -3)
+TruePose:
+timestamp= 1512686884437616
+pose: (0, 0, -3)
+TruePose:
+timestamp= 1512686884439132
+pose: (0, 0, -3)
+TruePose:
+timestamp= 1512686884440671
+pose: (0, 0, -3)
+TruePose:
+timestamp= 1512686884442107
+pose: (0, 0, -3)
+TruePose:
+timestamp= 1512686884443686
+pose: (0, 0, -3)
+TruePose:
+timestamp= 1512686884445156
+pose: (0, 0, -3)
+TruePose:
+timestamp= 1512686884446648
+pose: (0, 0, -3)
+TruePose:
+timestamp= 1512686884448240
+pose: (0, 0, -3)
+TruePose:
+timestamp= 1512686884449722
+pose: (0, 0, -3)
+TruePose:
+timestamp= 1512686884451223
+pose: (0, 0, -3)
+TruePose:
+timestamp= 1512686884452723
+pose: (0, 0, -3)
+TruePose:
+timestamp= 1512686884454280
+pose: (0, 0, -3)
+TruePose:
+timestamp= 1512686884455762
+pose: (0, 0, -3)
+TruePose:
+timestamp= 1512686884457288
+pose: (0, 0, -3)
+TruePose:
+timestamp= 1512686884458779
+pose: (0, 0, -3)
+TruePose:
+timestamp= 1512686884460325
+pose: (0, 0, -3)
+TruePose:
+timestamp= 1512686884461836
+pose: (0, 0, -3)
+TruePose:
+timestamp= 1512686884463368
+pose: (0, 0, -3)
+TruePose:
+timestamp= 1512686884464856
+pose: (0, 0, -3)
+TruePose:
+timestamp= 1512686884636919
+pose: (0, 0, -3)
+TruePose:
+timestamp= 1512686884638452
+pose: (0, 0, -3)
+TruePose:
+timestamp= 1512686884639912
+pose: (0, 0, -3)
+TruePose:
+timestamp= 1512686884641635
+pose: (0, 0, 3)
+TruePose:
+timestamp= 1512686884643249
+pose: (0, 0, 3)
+TruePose:
+timestamp= 1512686884701628
+pose: (0, 0, 3)
+TruePose:
+timestamp= 1512686884710535
+pose: (0, 0, 3)
+TruePose:
+timestamp= 1512686884712113
+pose: (0, 0, 3)
+TruePose:
+timestamp= 1512686884714482
+pose: (0, 0, 3)
+TruePose:
+timestamp= 1512686884716013
+pose: (0, 0, 3)
+TruePose:
+timestamp= 1512686884717480
+pose: (0, 0, 3)
+TruePose:
+timestamp= 1512686884719004
+pose: (0, 0, 3)
+TruePose:
+timestamp= 1512686884720557
+pose: (0, 0, 3)
+TruePose:
+timestamp= 1512686884722044
+pose: (0, 0, 3)
+TruePose:
+timestamp= 1512686884723566
+pose: (0, 0, 3)
+TruePose:
+timestamp= 1512686884725110
+pose: (0, 0, 3)
+TruePose:
+timestamp= 1512686884726563
+pose: (0, 0, 3)
+TruePose:
+timestamp= 1512686884728097
+pose: (0, 0, 3)
+TruePose:
+timestamp= 1512686884729651
+pose: (0, 0, 3)
+TruePose:
+timestamp= 1512686884731126
+pose: (0, 0, 3)
+TruePose:
+timestamp= 1512686884732656
+pose: (0, 0, 3)
+TruePose:
+timestamp= 1512686884734146
+pose: (0, 0, 3)
+TruePose:
+timestamp= 1512686884735639
+pose: (0, 0, 3)
+TruePose:
+timestamp= 1512686884738379
+pose: (0, 0, 3)
+TruePose:
+timestamp= 1512686884739895
+pose: (0, 0, 3)
+TruePose:
+timestamp= 1512686884741428
+pose: (0, 0, 3)
+TruePose:
+timestamp= 1512686884742929
+pose: (0, 0, 3)
+TruePose:
+timestamp= 1512686884744502
+pose: (0, 0, 3)
+TruePose:
+timestamp= 1512686884746038
+pose: (0, 0, 3)
+TruePose:
+timestamp= 1512686884747543
+pose: (0, 0, 3)
+TruePose:
+timestamp= 1512686884748981
+pose: (0, 0, 3)
+TruePose:
+timestamp= 1512686884750506
+pose: (0, 0, 3)
+TruePose:
+timestamp= 1512686884943868
+pose: (0, 0, 3)
+TruePose:
+timestamp= 1512686884945367
+pose: (0, 0, 2)
+TruePose:
+timestamp= 1512686884946877
+pose: (0, 0, 2)
+TruePose:
+timestamp= 1512686884949301
+pose: (0, 0, 2)
+TruePose:
+timestamp= 1512686884954398
+pose: (0, 0, 2)
+TruePose:
+timestamp= 1512686884955894
+pose: (0, 0, 2)
+TruePose:
+timestamp= 1512686884970991
+pose: (0, 0, 2)
+TruePose:
+timestamp= 1512686884972564
+pose: (0, 0, 2)
+TruePose:
+timestamp= 1512686884974102
+pose: (0, 0, 2)
+TruePose:
+timestamp= 1512686884975257
+pose: (0, 0, 2)
+TruePose:
+timestamp= 1512686884977005
+pose: (0, 0, 2)
+TruePose:
+timestamp= 1512686884978549
+pose: (0, 0, 2)
+TruePose:
+timestamp= 1512686884980047
+pose: (0, 0, 2)
+TruePose:
+timestamp= 1512686884981580
+pose: (0, 0, 2)
+TruePose:
+timestamp= 1512686884983043
+pose: (0, 0, 2)
+TruePose:
+timestamp= 1512686884984592
+pose: (0, 0, 2)
+TruePose:
+timestamp= 1512686884986093
+pose: (0, 0, 2)
+TruePose:
+timestamp= 1512686884987597
+pose: (0, 0, 2)
+TruePose:
+timestamp= 1512686884989152
+pose: (0, 0, 2)
+TruePose:
+timestamp= 1512686884990627
+pose: (0, 0, 2)
+TruePose:
+timestamp= 1512686885147111
+pose: (0, 0, 2)
+TruePose:
+timestamp= 1512686885153235
+pose: (0, 0, 2)
+TruePose:
+timestamp= 1512686885154749
+pose: (0, 0, 2)
+TruePose:
+timestamp= 1512686885157634
+pose: (0, 0, 2)
+TruePose:
+timestamp= 1512686885159242
+pose: (0, 0, 2)
+TruePose:
+timestamp= 1512686885161054
+pose: (0, 0, 2)
+TruePose:
+timestamp= 1512686885162556
+pose: (0, 0, 2)
+TruePose:
+timestamp= 1512686885164092
+pose: (0, 0, 2)
+TruePose:
+timestamp= 1512686885165596
+pose: (0, 0, 2)
+TruePose:
+timestamp= 1512686885166996
+pose: (0, 0, 2)
+TruePose:
+timestamp= 1512686885168530
+pose: (0, 0, 2)
+TruePose:
+timestamp= 1512686885170064
+pose: (0, 0, 2)
+TruePose:
+timestamp= 1512686885171579
+pose: (0, 0, 2)
+TruePose:
+timestamp= 1512686885173050
+pose: (0, 0, 2)
+TruePose:
+timestamp= 1512686885174584
+pose: (0, 0, 2)
+TruePose:
+timestamp= 1512686885176091
+pose: (0, 0, 2)
+TruePose:
+timestamp= 1512686885177572
+pose: (0, 0, 2)
+TruePose:
+timestamp= 1512686885179134
+pose: (0, 0, 2)
+TruePose:
+timestamp= 1512686885180620
+pose: (0, 0, 2)
+TruePose:
+timestamp= 1512686885182145
+pose: (0, 0, 2)
+TruePose:
+timestamp= 1512686885183666
+pose: (0, 0, 2)
+TruePose:
+timestamp= 1512686885185163
+pose: (0, 0, 2)
+TruePose:
+timestamp= 1512686885186672
+pose: (0, 0, 2)
+TruePose:
+timestamp= 1512686885188185
+pose: (0, 0, 2)
+TruePose:
+timestamp= 1512686885189739
+pose: (0, 0, 2)
+TruePose:
+timestamp= 1512686885191243
+pose: (0, 0, 2)
+TruePose:
+timestamp= 1512686885192761
+pose: (0, 0, 2)
+TruePose:
+timestamp= 1512686885559792
+pose: (0, 0, 2)
+TruePose:
+timestamp= 1512686885579237
+pose: (0, 0, 2)
+TruePose:
+timestamp= 1512686885580830
+pose: (0, 0, 2)
+TruePose:
+timestamp= 1512686885582436
+pose: (0, 0, 2)
+TruePose:
+timestamp= 1512686885596028
+pose: (0, 0, 2)
+TruePose:
+timestamp= 1512686885597574
+pose: (0, 0, 2)
+TruePose:
+timestamp= 1512686885599069
+pose: (0, 0, 2)
+TruePose:
+timestamp= 1512686885600564
+pose: (0, 0, 2)
+TruePose:
+timestamp= 1512686885602076
+pose: (0, 0, 2)
+TruePose:
+timestamp= 1512686885603578
+pose: (0, 0, 2)
+TruePose:
+timestamp= 1512686885605059
+pose: (0, 0, 2)
+TruePose:
+timestamp= 1512686885606662
+pose: (0, 0, 2)
+TruePose:
+timestamp= 1512686885608173
+pose: (0, 0, 2)
+TruePose:
+timestamp= 1512686885609603
+pose: (0, 0, 2)
+TruePose:
+timestamp= 1512686885611240
+pose: (0, 0, 2)
+TruePose:
+timestamp= 1512686885612653
+pose: (0, 0, 2)
+TruePose:
+timestamp= 1512686885614209
+pose: (0, 0, 2)
+TruePose:
+timestamp= 1512686885615712
+pose: (0, 0, 2)
+TruePose:
+timestamp= 1512686885617209
+pose: (0, 0, 2)
+TruePose:
+timestamp= 1512686885618703
+pose: (0, 0, 2)
+TruePose:
+timestamp= 1512686885620228
+pose: (0, 0, 2)
+TruePose:
+timestamp= 1512686885621772
+pose: (0, 0, 2)
+TruePose:
+timestamp= 1512686885623236
+pose: (0, 0, 2)
+TruePose:
+timestamp= 1512686885658782
+pose: (0, 0, 2)
+TruePose:
+timestamp= 1512686885660728
+pose: (0, 0, 2)
+TruePose:
+timestamp= 1512686885663061
+pose: (0, 0, 2)
+TruePose:
+timestamp= 1512686885864586
+pose: (0, 0, 2)
+TruePose:
+timestamp= 1512686885871924
+pose: (0, 0, 3)
+TruePose:
+timestamp= 1512686885873458
+pose: (0, 0, 3)
+TruePose:
+timestamp= 1512686885875134
+pose: (0, 0, 3)
+TruePose:
+timestamp= 1512686885876614
+pose: (0, 0, 3)
+TruePose:
+timestamp= 1512686885878094
+pose: (0, 0, 3)
+TruePose:
+timestamp= 1512686885885592
+pose: (0, 0, 3)
+TruePose:
+timestamp= 1512686885887116
+pose: (0, 0, 3)
+TruePose:
+timestamp= 1512686885888648
+pose: (0, 0, 3)
+TruePose:
+timestamp= 1512686885890191
+pose: (0, 0, 3)
+TruePose:
+timestamp= 1512686885891639
+pose: (0, 0, 3)
+TruePose:
+timestamp= 1512686885893195
+pose: (0, 0, 3)
+TruePose:
+timestamp= 1512686885894708
+pose: (0, 0, 3)
+TruePose:
+timestamp= 1512686885896192
+pose: (0, 0, 3)
+TruePose:
+timestamp= 1512686885897727
+pose: (0, 0, -3)
+TruePose:
+timestamp= 1512686885899264
+pose: (0, 0, -3)
+TruePose:
+timestamp= 1512686885900839
+pose: (0, 0, -3)
+TruePose:
+timestamp= 1512686885902345
+pose: (0, 0, -3)
+TruePose:
+timestamp= 1512686885903877
+pose: (0, 0, -3)
+TruePose:
+timestamp= 1512686885905308
+pose: (0, 0, -3)
+TruePose:
+timestamp= 1512686886073755
+pose: (0, 0, -3)
+TruePose:
+timestamp= 1512686886075946
+pose: (0, 0, -3)
+TruePose:
+timestamp= 1512686886077474
+pose: (0, 0, -3)
+TruePose:
+timestamp= 1512686886079136
+pose: (0, 0, -3)
+TruePose:
+timestamp= 1512686886080532
+pose: (0, 0, -3)
+TruePose:
+timestamp= 1512686886082000
+pose: (0, 0, -3)
+TruePose:
+timestamp= 1512686886083589
+pose: (0, 0, -3)
+TruePose:
+timestamp= 1512686886085083
+pose: (0, 0, -3)
+TruePose:
+timestamp= 1512686886086571
+pose: (0, 0, -3)
+TruePose:
+timestamp= 1512686886088117
+pose: (0, 0, -3)
+TruePose:
+timestamp= 1512686886089610
+pose: (0, 0, -3)
+TruePose:
+timestamp= 1512686886091148
+pose: (0, 0, -3)
+TruePose:
+timestamp= 1512686886092660
+pose: (0, 0, -3)
+TruePose:
+timestamp= 1512686886094172
+pose: (0, 0, -3)
+TruePose:
+timestamp= 1512686886095754
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686886097190
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686886098708
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686886100297
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686886101803
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686886103267
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686886104724
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686886106247
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686886107803
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686886109316
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686886110783
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686886112276
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686886113803
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686886115306
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686886116826
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686886118375
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686886274685
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686886276209
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686886277728
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686886279309
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686886280813
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686886282272
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686886283808
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686886285288
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686886286819
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686886297476
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686886298956
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686886300483
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686886301991
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686886303566
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686886305076
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686886306489
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686886308037
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686886478379
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686886479951
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686886481552
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686886482988
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686886484559
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686886486332
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686886487846
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686886489444
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686886686255
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686886687732
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686886690939
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686886692441
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686886696768
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686886698352
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686886699991
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686886703571
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686886713484
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686886715037
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686886788025
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686886789527
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686886795860
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686886797301
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686886798806
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686886800271
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686886801799
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686886803303
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686886804852
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686886806352
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686886807850
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686886809338
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686886993952
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686886995471
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686886997035
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686886998554
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686887000152
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686887001656
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686887003116
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686887004695
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686887006089
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686887007667
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686887009171
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686887010672
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686887012280
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686887013679
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686887015214
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686887016754
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686887018219
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686887019761
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686887021298
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686887022758
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686887024289
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686887025794
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686887027359
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686887028800
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686887030319
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686887031885
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686887033363
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686887034893
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686887036433
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686887037893
+pose: (0, 0, -2)
+TruePose:
+timestamp= 1512686887039419
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686887040947
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686887042422
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686887043935
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686887045438
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686887046965
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686887048478
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686887049986
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686887051520
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686887053025
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686887196792
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686887198580
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686887200156
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686887201630
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686887203115
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686887204573
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686887206162
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686887207629
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686887209244
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686887210717
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686887212262
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686887213720
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686887215219
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686887216759
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686887218264
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686887219767
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686887221267
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686887222777
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686887224374
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686887404541
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686887414267
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686887434767
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686887436250
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686887437782
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686887439360
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686887440894
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686887442398
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686887443835
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686887445369
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686887446831
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686887448381
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686887449914
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686887451427
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686887452918
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686887606565
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686887608099
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686887614262
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686887620919
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686887622903
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686887624403
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686887626078
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686887627577
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686887629126
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686887630732
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686887632323
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686887633887
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686887635450
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686887636985
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686887642307
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686887643806
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686887645378
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686887709689
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686887715504
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686887717027
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686887718590
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686887720195
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686887721637
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686887929964
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686887931822
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686888120055
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686888121587
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686888123098
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686888124621
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686888126123
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686888127609
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686888129147
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686888130620
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686888139760
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686888141321
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686888142766
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686888144364
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686888145866
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686888147305
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686888148904
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686888150336
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686888151800
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686888153294
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686888321599
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686888323156
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686888326661
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686888326711
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686888330939
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686888332446
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686888335270
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686888336875
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686888338376
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686888340968
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686888342536
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686888344302
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686888345874
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686888347251
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686888350119
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686888351927
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686888353868
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686888355782
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686888357345
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686888358894
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686888360363
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686888361865
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686888363380
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686888364866
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686888366363
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686888367947
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686888369458
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686888370953
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686888372465
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686888373957
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686888375441
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686888377033
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686888378517
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686888380022
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686888381558
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686888383066
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686888384584
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686888386039
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686888387693
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686888389162
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686888390632
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686888392140
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686888393666
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686888395149
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686888396666
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686888535826
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686888535926
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686888542285
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686888548559
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686888550536
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686888552143
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686888553679
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686888555147
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686888556713
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686888558246
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686888561387
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686888562870
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686888565579
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686888567039
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686888568536
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686888570113
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686888733741
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686888735281
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686888736659
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686888742997
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686888744427
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686888747705
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686888749190
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686888750633
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686888752566
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686888754289
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686888755855
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686888757420
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686888758953
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686888838734
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686888840244
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686888841751
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889054777
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889056293
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889059927
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889061471
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889063098
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889066518
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889068050
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889079343
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889080800
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889082421
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889083943
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889085483
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889087053
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889088625
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889090205
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889092273
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889093802
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889095498
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889097034
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889108440
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889114569
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889122918
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889124570
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889126097
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889141689
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889143197
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889144746
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889146283
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889148120
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889149657
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889159658
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889161208
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889162715
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889244315
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889245739
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889247257
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889248857
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889250361
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889251866
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889253305
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889254820
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889256332
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889257844
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889259396
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889260894
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889262338
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889263894
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889265390
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889266928
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889268471
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889275393
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889347107
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889347211
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889348679
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889350485
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889353657
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889451472
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889456004
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889457630
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889469633
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889471191
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889472765
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889474201
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889475802
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889551523
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889552991
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889554533
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889556091
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889557694
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889562529
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889653348
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889657000
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889658326
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889662428
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889664053
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889667293
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889758869
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889760385
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889761987
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889763427
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889764955
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889766421
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889767955
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889769528
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889770992
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889772539
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889774025
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889775551
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889777017
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889778550
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889780162
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889781602
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889783119
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889784705
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889786146
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889787715
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889960735
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889962244
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889963770
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889965298
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889966864
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889968316
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889969816
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889971360
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889972895
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889974402
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889975871
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889977409
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889978914
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889980417
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889981951
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889983458
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889984960
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889986494
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889987995
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889989497
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889991038
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889992556
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889994944
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889996519
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889998018
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686889999553
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686890001041
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686890168184
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686890168268
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686890169870
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686890172131
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686890173700
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686890175173
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686890176675
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686890178199
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686890179813
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686890181316
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686890182784
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686890184288
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686890185793
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686890187328
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686890188834
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686890190309
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686890191873
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686890369574
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686890371157
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686890372746
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686890374264
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686890375757
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686890377341
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686890378947
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686890380484
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686890381999
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686890383760
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686890387098
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686890388631
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686890390201
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686890392046
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686890393571
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686890395157
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686890396650
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686890399788
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686890401370
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686890403125
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686890404620
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686890406212
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686890412494
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686890414037
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686890415544
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686890417094
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686890418579
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686890591749
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686890593222
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686890602632
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686890604186
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686890605716
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686890607185
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686890608745
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686890610187
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686890611666
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686890613221
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686890614711
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686890676657
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686890680401
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686890689190
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686890779149
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686890780687
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686890807258
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686890808723
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686890810184
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686890985496
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686890985560
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686890987018
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686890996529
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686891002868
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686891004366
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686891005819
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686891007294
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686891008873
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686891010383
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686891011927
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686891013383
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686891014931
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686891016430
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686891017892
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686891019476
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686891021040
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686891022484
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686891190503
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686891192041
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686891193929
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686891195674
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686891197460
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686891199157
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686891201244
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686891204790
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686891206411
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686891293819
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686891293904
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686891295310
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686891297268
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686891298773
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686891305173
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686891306672
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686891309841
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686891313131
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686891314665
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686891316212
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686891317746
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686891323623
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686891327641
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686891329176
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686891330655
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686891332176
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686891333681
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686891335199
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686891336787
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686891338226
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686891341437
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686891502469
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686891506128
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686891507673
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686891509346
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686891510878
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686891512739
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686891514292
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686891515898
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686891600189
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686891601788
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686891603826
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686891605650
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686891607105
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686891608682
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686891610191
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686891611777
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686891613275
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686891614745
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686891616240
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686891617705
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686891619279
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686891620764
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686891622247
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686891623837
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686891625342
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686891626806
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686891628440
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686891629888
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686891631458
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686891632886
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686891634414
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686891710831
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686891712633
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686891715259
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686891907407
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686891910613
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686891912254
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686891913856
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686891915293
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686891924723
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686891926196
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686891927741
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686891929240
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686891930695
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686891932283
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686891933792
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686891935280
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686891936827
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686891938308
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686891939837
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686892116089
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686892117698
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686892119522
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686892120871
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686892122848
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686892126723
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686892128195
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686892131688
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686892133153
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686892134657
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686892136222
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686892137696
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686892139227
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686892140835
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686892142273
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686892143842
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686892145379
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686892146792
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686892148385
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686892149890
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686892151395
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686892152929
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686892154431
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686892155971
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686892317766
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686892319622
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686892321103
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686892322725
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686892326597
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686892328133
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686892329652
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686892337200
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686892338647
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686892340170
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686892341698
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686892343165
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686892344710
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686892346233
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686892347725
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686892349237
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686892350746
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686892352359
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686892353878
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686892355276
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686892356836
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686892358276
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686892359782
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686892361371
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686892362820
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686892364336
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686892365919
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686892367431
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686892368939
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686892519884
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686892521310
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686892527049
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686892528550
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686892530086
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686892531657
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686892533096
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686892534634
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686892536202
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686892537623
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686892539140
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686892540678
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686892542177
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686892543680
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686892545290
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686892546696
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686892548217
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686892549766
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686892551233
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686892552731
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686892554267
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686892555789
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686892728611
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686892730086
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686892731582
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686892733158
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686892734693
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686892736157
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686892737665
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686892739234
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686892740758
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686892742248
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686892743784
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686892745287
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686892930325
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686892931750
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686892933291
+pose: (0, 0, -1)
+TruePose:
+timestamp= 1512686892934747
+pose: (0, 0, -1)
